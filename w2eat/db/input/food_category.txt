@@ -1,0 +1,9 @@
+('Eggs & milk'),
+('Fats & oils'),
+('Meat & fish'),
+('Vegetables'),
+('Pasta & rice'),
+('Grains'),
+('Nuts'),
+('Fruits'),
+('Herbs & Spices')
